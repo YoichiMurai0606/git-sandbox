@@ -9,3 +9,5 @@ str_ = "smurai"
 print("num = ", num)
 print("pi = ", pi)
 print("str = ", str_)
+
+print("うんこ")
